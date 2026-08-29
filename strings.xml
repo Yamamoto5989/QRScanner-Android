@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRスキャナー</string>
+    <string name="result_label">読み取り結果</string>
+    <string name="waiting_message">カメラを起動しています…</string>
+    <string name="rescan_button">再スキャン</string>
+    <string name="copy_button">コピー</string>
+    <string name="copied_toast">コピーしました</string>
+</resources>
